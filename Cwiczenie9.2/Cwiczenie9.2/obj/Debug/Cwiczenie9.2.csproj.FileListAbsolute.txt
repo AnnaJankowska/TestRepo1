@@ -1,0 +1,5 @@
+c:\users\kebabik\documents\visual studio 2017\Projects\Cwiczenie9.2\Cwiczenie9.2\bin\Debug\Cwiczenie9.2.exe.config
+c:\users\kebabik\documents\visual studio 2017\Projects\Cwiczenie9.2\Cwiczenie9.2\bin\Debug\Cwiczenie9.2.exe
+c:\users\kebabik\documents\visual studio 2017\Projects\Cwiczenie9.2\Cwiczenie9.2\bin\Debug\Cwiczenie9.2.pdb
+c:\users\kebabik\documents\visual studio 2017\Projects\Cwiczenie9.2\Cwiczenie9.2\obj\Debug\Cwiczenie9.2.exe
+c:\users\kebabik\documents\visual studio 2017\Projects\Cwiczenie9.2\Cwiczenie9.2\obj\Debug\Cwiczenie9.2.pdb

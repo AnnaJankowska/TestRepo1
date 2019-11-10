@@ -1,0 +1,6 @@
+c:\users\kebabik\documents\visual studio 2017\Projects\Cwiczenia 10.1\Cwiczenia 10.1\bin\Debug\Cwiczenia 10.1.exe.config
+c:\users\kebabik\documents\visual studio 2017\Projects\Cwiczenia 10.1\Cwiczenia 10.1\bin\Debug\Cwiczenia 10.1.exe
+c:\users\kebabik\documents\visual studio 2017\Projects\Cwiczenia 10.1\Cwiczenia 10.1\bin\Debug\Cwiczenia 10.1.pdb
+c:\users\kebabik\documents\visual studio 2017\Projects\Cwiczenia 10.1\Cwiczenia 10.1\obj\Debug\Cwiczenia 10.1.csprojResolveAssemblyReference.cache
+c:\users\kebabik\documents\visual studio 2017\Projects\Cwiczenia 10.1\Cwiczenia 10.1\obj\Debug\Cwiczenia 10.1.exe
+c:\users\kebabik\documents\visual studio 2017\Projects\Cwiczenia 10.1\Cwiczenia 10.1\obj\Debug\Cwiczenia 10.1.pdb

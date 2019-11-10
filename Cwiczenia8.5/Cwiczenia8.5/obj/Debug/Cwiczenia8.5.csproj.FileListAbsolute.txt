@@ -1,0 +1,5 @@
+c:\users\kebabik\documents\visual studio 2017\Projects\Cwiczenia8.5\Cwiczenia8.5\bin\Debug\Cwiczenia8.5.exe.config
+c:\users\kebabik\documents\visual studio 2017\Projects\Cwiczenia8.5\Cwiczenia8.5\bin\Debug\Cwiczenia8.5.exe
+c:\users\kebabik\documents\visual studio 2017\Projects\Cwiczenia8.5\Cwiczenia8.5\bin\Debug\Cwiczenia8.5.pdb
+c:\users\kebabik\documents\visual studio 2017\Projects\Cwiczenia8.5\Cwiczenia8.5\obj\Debug\Cwiczenia8.5.exe
+c:\users\kebabik\documents\visual studio 2017\Projects\Cwiczenia8.5\Cwiczenia8.5\obj\Debug\Cwiczenia8.5.pdb

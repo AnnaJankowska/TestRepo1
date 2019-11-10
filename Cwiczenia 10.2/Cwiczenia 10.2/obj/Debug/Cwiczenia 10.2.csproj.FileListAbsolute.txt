@@ -1,0 +1,5 @@
+c:\users\kebabik\documents\visual studio 2017\Projects\Cwiczenia 10.2\Cwiczenia 10.2\bin\Debug\Cwiczenia 10.2.exe.config
+c:\users\kebabik\documents\visual studio 2017\Projects\Cwiczenia 10.2\Cwiczenia 10.2\bin\Debug\Cwiczenia 10.2.exe
+c:\users\kebabik\documents\visual studio 2017\Projects\Cwiczenia 10.2\Cwiczenia 10.2\bin\Debug\Cwiczenia 10.2.pdb
+c:\users\kebabik\documents\visual studio 2017\Projects\Cwiczenia 10.2\Cwiczenia 10.2\obj\Debug\Cwiczenia 10.2.exe
+c:\users\kebabik\documents\visual studio 2017\Projects\Cwiczenia 10.2\Cwiczenia 10.2\obj\Debug\Cwiczenia 10.2.pdb
